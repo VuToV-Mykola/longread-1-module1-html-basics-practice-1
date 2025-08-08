@@ -1,5 +1,8 @@
 # longread-1-module1-html-basics-practice-1
 
-Рецепт зверстано!
+Recipe Contribution!
 
-Рецепт, де є назва страви та два рівноцінних розділи: інгредієнти та інструкція
+Recipe where there is a dish name and two equivalent sections: ingredients and
+instruction
+
+![Опис зображення](./asset/recept.png)
